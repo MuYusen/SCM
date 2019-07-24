@@ -3,7 +3,9 @@
 （http://www.ldap.org.cn/）
 （https://www.howtoing.com/how-to-install-and-configure-openldap-and-phpldapadmin-on-ubuntu-16-04/）
 
-LDAP是轻量目录访问协议，英文全称是LIGHTWEIGHT DIRECTORY ACCESS PROTOCOL，一般都简称为LDAP
+LDAP是轻量目录访问协议，英文全称是LIGHTWEIGHT DIRECTORY ACCESS PROTOCOL，一般都简称为LDAP。
+
+`当前多种开源系统都加入了LDAP的支持，比如：Gerrit、Gitlab、Jenkins、Redmine……`
 
 ## 描述
 
