@@ -19,3 +19,12 @@ branch with Review Apps`
 + Deploy your personal and professional static websites with GitLab Pages
 + Integrate with Docker with GitLab Container Registry
 + Track the development lifecycle with GitLab Cycle Analytics
+
+## Gitlab + Jenkins 进行持续集成
+
+
+
+## Gitlab subgroup
+
+## Gitlab code review ： Merge Request
+
