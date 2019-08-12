@@ -149,4 +149,4 @@ cn=admin,dc=example,dc=com
 
 https://ltb-project.org/doku.php
 
-
+(基本上，配置一遍，就知道是怎么回事了)
